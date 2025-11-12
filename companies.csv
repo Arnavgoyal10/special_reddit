@@ -1,0 +1,224 @@
+Company,Keyword1,Keyword2,Keyword3,Keyword4,Keyword5,Keyword6,Keyword7
+Microsoft Corp,Microsoft,MSFT,Windows,Azure,Office,Surface,Xbox
+Nvidia Corp,Nvidia,NVDA,Graphics Cards,GeForce,AI,RTX,GPU
+Apple Inc.,Apple,AAPL,iPhone,Mac,Apple Watch,iOS,AirPods
+Amazon.com Inc,Amazon,AMZN,Prime,Alexa,Kindle,Amazon Web Services,AWS
+Meta Platforms Inc.,Meta,Fb,Facebook,META,Instagram,WhatsApp,Facebook Ads,VR
+Broadcom Inc.,Broadcom,AVGO,Semiconductors,Chips,Networking,Wireless,Storage
+Alphabet Inc. Class A,Google,Alphabet,GOOGL,Search,YouTube,Android,Ads
+Tesla Inc.,Tesla,TSLA,Model 3,Electric Vehicles,Autopilot,Energy Storage,Battery
+Berkshire Hathaway Class B,Berkshire Hathaway,BRK,Warren Buffett,Insurance,Investments,Finance,BRK.B
+JPMorgan Chase & Co.,JPMorgan,JPM,Banking,Finance,Investing,Chase,Wall Street
+Visa Inc.,Visa,V,Payment Processing,Credit Cards,Digital Payments,Transactions
+Eli Lilly & Co.,Eli Lilly,LLY,Pharmaceuticals,Insulin,Diabetes,Pfizer,R&D
+Netflix Inc,Netflix,NFLX,Streaming,Originals,Content,Media,Binge
+Mastercard Incorporated,Mastercard,MA,Payment Processing,Digital Payments,Credit Cards
+Costco Wholesale Corp,Costco,COST,Wholesale,Retail,Membership,Grocery,Warehouse
+Exxon Mobil Corporation,Exxon Mobil,XOM,Oil,Energy,Fossil Fuels,Gasoline,Refining
+Walmart Inc.,Walmart,WMT,Retail,Superstore,Walmart+,Groceries,E-commerce
+Procter & Gamble Company,Procter & Gamble,PG,FMCG,Consumer Goods,Household,Hygiene,Tide
+Johnson & Johnson,Johnson & Johnson,JNJ,Pharmaceuticals,Medical Devices,Consumer Health,Band-Aid,Tylenol
+Home Depot Inc.,Home Depot,HD,Hardware Tools,Home Improvement,Garden,E-commerce
+Abbvie Inc.,AbbVie,ABBV,Biopharma,Humira,Immunology,R&D,Pharmaceuticals
+Bank of America Corporation,Bank of America,BAC,Banking,Finance,Investing,Credit Cards,Wall Street
+Unitedhealth Group Incorporated,UnitedHealth,UNH,Healthcare,Insurance,UnitedHealthcare,Health Plans
+Coca-Cola Company,Coca-Cola,KO,Beverages,Soda,Marketing,Brand Campaign,Coke
+Philip Morris International Inc.,Philip Morris,PM,Tobacco,Smoking,Heat-not-burn,IQOS
+Salesforce Inc.,Salesforce,CRM,Cloud,Enterprise,Software,Marketing Cloud,Data Analytics
+Oracle Corp,Oracle,ORCL,Software,Cloud,Database,Enterprise,ERP
+Cisco Systems Inc.,Cisco,CSCO,Networking,Telecommunications,Enterprise,Hardware,Software
+GE Aerospace,GE Aerospace,General Electric,GE,Aviation,Defense,Jet Engines
+Palantir Technologies Inc.,Palantir,PLTR,Big Data,Analytics,Government,Software
+International Business Machines Corporation,IBM,IBM,Cloud,AI,Watson,Enterprise,Quantum Computing
+Wells Fargo & Co.,Wells Fargo,WFC,Banking,Finance,Mortgages,Investing,Wall Street
+Abbott Laboratories,Abbott,ABT,Healthcare,Medical Devices,Diagnostics,Pharmaceuticals
+McDonald's Corporation,McDonald's,MCD,Fast Food,Marketing,Brand Campaigns,Happy Meal
+Chevron Corporation,Chevron,CVX,Oil,Energy,Fossil Fuels,Gasoline,Refining
+Linde Plc,Linde,LIN,Chemicals,Gases,Industrial,Healthcare,Technology
+Servicenow Inc.,ServiceNow,NOW,Enterprise,Cloud,Workflow,Software,Automation
+The Walt Disney Company,Disney,DIS,Media,Theme Parks,Streaming,Disney+,Pixar
+Accenture Plc,Accenture,ACN,Consulting,IT Services,Cloud,Digital Transformation
+AT&T Inc.,AT&T,T,Telecommunications,Mobile,Internet,Media,DTV
+Intuitive Surgical Inc.,Intuitive Surgical,ISRG,Robotic Surgery,Healthcare,Medical Devices,Da Vinci
+Merck & Co. Inc.,Merck,MRK,Pharmaceuticals,Vaccine,Medical Research,COVID-19
+Uber Technologies Inc.,Uber,UBER,Ridesharing,Food Delivery,Uber Eats,Technology,Transportation
+Goldman Sachs Group Inc.,Goldman Sachs,GS,Investment Banking,Finance,Trading,Asset Management
+Intuit Inc,Intuit,INTU,Software,Taxes,Finance,QuickBooks,TurboTax
+Verizon Communications,Verizon,VZ,Telecommunications,Mobile,Internet,5G,Fios
+Advanced Micro Devices,AMD,AMD,Semiconductors,Gaming,Processors,Graphics Cards
+Adobe Inc.,Adobe,ADBE,Creative Cloud,Photoshop,PDF,Illustrator,Marketing Cloud
+RTX Corporation,Raytheon,RTX,Defense,Aerospace,Weapons,Missiles,Technology
+Pepsico Inc.,PepsiCo,PEP,Beverages,Snacks,Coca-Cola Competitor,Frito-Lay,Marketing
+Booking Holdings Inc.,Booking.com,BKNG,Travel,Hotels,Online,B2C,OTA
+Texas Instruments Incorporated,Texas Instruments,TXN,Semiconductors,Analog Chips,Processors,Calculators
+Qualcomm Inc.,Qualcomm,QCOM,5G,Mobile Chips,Semiconductors,Networking
+Progressive Corporation,Progressive,PGR,Insurance,Auto Insurance,Claims,Risk
+Caterpillar Inc.,Caterpillar,CAT,Heavy Equipment,Construction,Mining,Machinery
+S&P Global Inc.,S&P Global,SPGI,Financial Analytics,Indices,Credit Ratings
+American Express Company,American Express,AXP,Credit Cards,Finance,Payments,Travel
+Morgan Stanley,Morgan Stanley,MS,Investment Banking,Finance,Wealth Management
+Boston Scientific Corp.,Boston Scientific,BSX,Medical Devices,Healthcare,Cardiology
+Boeing Company,Boeing,BA,Aerospace,Defense,Airplanes,Space
+Thermo Fisher Scientific,Thermo Fisher,TMO,Biotech,Life Sciences,Research Tools
+Charles Schwab Corp.,Charles Schwab,SCHW,Brokerage,Investing,Financial Services
+TJX Companies Inc.,TJX,TJX,Retail,Discount Stores,Home Goods
+NextEra Energy,NextEra Energy,NEE,Renewable Energy,Utilities,Wind,Solar
+Amgen Inc.,Amgen,AMGN,Biotech,Pharmaceuticals,Research,Genetics
+Honeywell International,Honeywell,HON,Aerospace,Technology,Automation,Industrial
+Blackrock Inc.,BlackRock,BLK,Asset Management,Investments,ETF
+Citigroup Inc.,Citigroup,C,Banking,Finance,Investing,Wall Street
+Union Pacific Corp.,Union Pacific,UNP,Railways,Logistics,Transport
+Gilead Sciences,Gilead,GILD,Pharma,HIV,Antivirals,Research
+Comcast Corp.,Comcast,CMCSA,Cable,Media,Internet,Xfinity
+Applied Materials,Applied Materials,AMAT,Semiconductors,Manufacturing,Equipment
+Automatic Data Processing,ADP,ADP,HR Software,Payroll,Technology
+Pfizer Inc.,Pfizer,PFE,Pharmaceuticals,Vaccines,COVID-19,Research
+Stryker Corporation,Stryker,SYK,Medical Devices,Healthcare,Orthopedics
+Deere & Company,Deere,DE,Agriculture,Farming,Machinery
+Lowe's Companies,Lowe's,LOW,Retail,Home Improvement,Hardware
+Eaton Corporation,Eaton,ETN,Power Management,Electrical,Automation
+GE Vernova Inc.,GE Vernova,GEV,Energy,Renewables,Oil,Gas
+Palo Alto Networks,Palo Alto,PANW,Cybersecurity,Network Security,Cloud Security
+Danaher Corporation,Danaher,DHR,Life Sciences,Diagnostics,Healthcare
+Capital One Financial,Capital One,COF,Finance,Banking,Credit Cards
+T-Mobile US,T-Mobile,TMUS,Telecom,Mobile,5G
+Marsh & McLennan Companies,Marsh,MMC,Insurance,Risk Management,Consulting
+Vertex Pharmaceuticals,Vertex,VRTX,Pharma,Cystic Fibrosis,Research
+ConocoPhillips,ConocoPhillips,COP,Oil,Energy,Exploration
+Analog Devices,Analog Devices,ADI,Semiconductors,Signal Processing
+Medtronic Plc,Medtronic,MDT,Medical Devices,Healthcare
+Chubb Limited,Chubb,CB,Insurance,Risk Management
+CrowdStrike Holdings,CrowdStrike,CRWD,Cybersecurity,Cloud Security
+Micron Technology,Micron,MU,Semiconductors,Memory,Storage Chips
+Lam Research,Lam Research,LRCX,Semiconductors,Manufacturing Equipment
+Amphenol Corporation,Amphenol,APH,Electronics Connectors
+KLA Corporation,KLA,KLAC,Semiconductor Equipment
+CME Group,CME,CME,Futures,Derivatives,Finance
+Altria Group,Altria,MO,Tobacco,Cigarettes,Smokeless
+Blackstone Inc.,Blackstone,BX,asset management,private equity,investments
+Intercontinental Exchange,ICE,ICE,Exchanges,Markets
+American Tower Corporation,American Tower,AMT,Tower Infrastructure,Telecom
+Lockheed Martin,Lockheed Martin,LMT,Defense,Aerospace,Military
+The Southern Company,Southern Company,SO,Utilities,Energy,Electricity
+Prologis,Prologis,PLD,Real Estate,Logistics,Warehousing
+Arista Networks,Arista,ANET,Networking,Cloud Computing
+Bristol-Myers Squibb,Bristol Myers,BMY,Pharma,Oncology,Research
+Trane Technologies,Trane,TT,HVAC,Climate Control
+Starbucks,Starbucks,SBUX,Coffee,Brand Campaigns,Retail
+Elevance Health,Elevance,ELV,Healthcare,Insurance,Medicare
+Fiserv,Fiserv,FI,Financial Technology,Payments,Services
+Duke Energy,Duke Energy,DUK,Utilities,Energy,Electricity
+Welltower,Welltower,WELL,Real Estate,Healthcare Properties
+McKesson Corp.,McKesson,MCK,Healthcare,Distribution,Pharmaceuticals
+Constellation Energy,Constellation,CEG,Energy,Utilities,Nuclear
+Intel Corp.,Intel,INTC,Processors,Semiconductors,Technology
+Cadence Design Systems,Cadence,Cdns,EDA,Chip Design
+The Cigna Group,Cigna,CI,Healthcare,Insurance
+Arthur J. Gallagher & Co.,Gallagher,AJG,Insurance,Brokerage
+Waste Management,Inc.,Waste Management,WM,Recycling,Environmental
+Parker-Hannifin Corporation,Parker-Hannifin,PH,Machinery,Filtration,Hydraulics
+Mondelez International,Mondelez,MDLZ,Snacks,Food,Beverages
+Equinix,Inc.,Equinix,EQIX,Data Centers,Colocation
+The Sherwin-Williams Company,Sherwin-Williams,SHW,Paints,Coatings
+3M Company,3M,MMM,Conglomerate,Industrial,Consumer Goods
+KKR & Co. Inc.,KKR,KKR,Private Equity,Investments
+TransDigm Group,TransDigm,TDG,Aerospace,Defense
+O'Reilly Automotive,O'Reilly Automotive,ORLY,Auto Parts,Retail
+CVS Health, CVS,CVS,Pharmacy,Healthcare,Medical
+Synopsys Inc.,Synopsys,SNPS,EDA,Software,Semiconductors
+Aon Plc,Aon,AON,Insurance,Brokerage
+Cintas Corp,Cintas,CTAS,Uniforms,Services
+Colgate-Palmolive,Colgate,CL,Consumer Goods,Personal Care
+Moody's Corporation,Moody's,MCO,Credit Ratings,Finance
+Zoetis Inc.,Zoetis,ZTS,Animal Health,Veterinary
+Motorola Solutions,Motorola Solutions,MSI,Communications,Technology
+PayPal Holdings,PayPal,PYPL,Payments,Finance,Digital Wallet
+Nike, Inc.,Nike,NKE,Sportswear,Brand,Apparel
+Williams Companies,Williams,WMB,Energy,Pipeline,Transportation
+General Dynamics,General Dynamics,GD,Defense,Aerospace,Military
+United Parcel Service,UPS,UPS,Logistics,Delivery,Shipping
+DoorDash,DoorDash,DASH,Food Delivery,Logistics
+Chipotle Mexican Grill,Chipotle,CMG,Restaurants,Fast Casual,Sustainable Food
+HCA Healthcare,HCA,HCA,Healthcare,Hospitals
+PNC Financial Services,PNC,PNC,Banking,Finance
+U.S. Bancorp,U.S. Bancorp,USB,Banking,Finance
+Howmet Aerospace,Howmet,HWM,Aerospace,Manufacturing
+Ecolab,Ecolab,ECL,Water Treatment,Sanitation
+Emerson Electric,Emerson,EMR,Automation,Industrial
+Illinois Tool Works,Illinois Tool Works,ITW,Manufacturing,Industrial
+Fortinet,Fortinet,FTNT,Cybersecurity,Networking
+AutoZone,AutoZone,AZO,Auto Parts,Retail
+Northrop Grumman,Northrop Grumman,NOC,Defense,Aerospace
+Johnson Controls,Johnson Controls,JCI,Building Technologies,HVAC
+Bank of New York Mellon,Bank of New York Mellon,BK,Banking,Finance
+Regeneron Pharmaceuticals,Regeneron,REGN,Pharmaceuticals,Biotechnology
+Autodesk,Autodesk,ADSK,Software,Design,Engineering
+EOG Resources,EOG,EOG,Oil,Energy,Exploration
+Travelers Companies,Travelers,TRV,Insurance,Property,Casualty
+Roper Technologies,Roper,ROP,Technology,Industrial
+Air Products & Chemicals,Air Products,APD,Chemicals,Industrial
+Newmont Corporation,Newmont,NEM,Gold Mining,Metals
+Marriott International,Marriott,MAR,Hotels,Hospitality
+Hilton Worldwide,Hilton,HLT,Hotels,Hospitality
+Royal Caribbean Group,Royal Caribbean,RCL,Cruise,Travel
+CSX Corporation,CSX,CSX,Railroad,Logistics
+Apollo Global Management,Apollo,APO,Private Equity,Investments
+Carrier Global,Carrier,CARR,HVAC,Building Technologies
+Workday,Workday,WDAY,HR Software,Cloud
+Airbnb,Airbnb,ABNB,Travel,Home Sharing
+American Electric Power,AEP,AEP,Utilities,Electricity
+Coinbase Global,Coinbase,COIN,Cryptocurrency,Exchange
+Freeport-McMoRan,Freeport,FCX,Mining,Copper
+Allstate,Allstate,ALL,Insurance,Auto,Homeowners
+Norfolk Southern,Norfolk Southern,NSC,Railroads,Logistics
+Copart,Copart,CPRT,Auto Auctions,Used Cars
+Axon Enterprise,Axon,AXON,Law Enforcement,Technology
+Kinder Morgan,Kinder Morgan,KMI,Oil,Gas,Pipeline
+Digital Realty Trust,Digital Realty,DLR,Data Centers,Real Estate
+NXP Semiconductors,NXP,NXPI,Semiconductors,Chips
+Vistra Corp.,Vistra,VST,Energy,Power Generation
+Truist Financial,Truist,TFC,Banking,Finance
+Aflac,Aflac,AFL,Insurance,Supplemental
+Republic Services,Republic Services,RSG,Waste Management,Recycling
+Oneok,Oneok,OKE,Energy,Natural Gas,Pipeline
+Ross Stores,Ross,RST,Retail,Off-price
+Quanta Services,Quanta,QNS,Infrastructure,Utilities
+Cencora,Cencora,COR,Healthcare,Pharma Distribution
+Paychex,Paychex,PAYX,HR,Payroll Services
+Becton Dickinson,Becton Dickinson,BDX,Medical Devices,Healthcare
+Marathon Petroleum,Marathon,MPC,Oil,Refining
+Paccar,Paccar,PCAR,Trucks,Automotive
+Ameriprise Financial,Ameriprise,AMP,Financial Services,Wealth Management
+General Motors,GM,General Motors,Auto,Electric Vehicles,Cadillac
+American International Group,AIG,AIG,Insurance,Financial Services
+Sempra,Sempra,SRE,Utilities,Energy
+Simon Property Group,Simon,SPG,Real Estate,Shopping Malls
+Realty Income,Realty Income,O,REIT,Real Estate,Dividends
+FedEx,FedEx,FDX,Logistics,Courier
+W.W. Grainger,Grainger,GWW,Industrial Supply
+TE Connectivity,TE,TEL,Electronics Components
+Dominion Energy,Dominion,D,Utilities,Energy,Nuclear
+Schlumberger,Schlumberger,SLB,Oilfield Services,Energy
+Corteva Corteva,CTVA,Agriculture,Chemicals
+Kimberly-Clark,Kimberly-Clark,KMB,Consumer Goods,Personal Care
+Fastenal,Fastenal,FAST,Industrial,Supplies
+Public Storage,Public Storage,PSA,REIT,Self Storage
+Phillips 66,Phillips 66,PSX,Oil,Energy,Refining
+Kenvue Inc.,Kenvue,KVUE,Consumer Health,Personal Care
+Kroger,Kroger,KR,Retail,Supermarket,Grocery
+Keurig Dr Pepper,Keurig,KDP,Beverages,Snacks
+United Rentals,United Rentals,URI,Equipment Rental,Construction
+MetLife,MetLife,MET,Insurance,Financial Services
+Edwards Lifesciences,Edwards Lifesciences,EW,Medical Devices,Cardiology
+Exelon,Exelon,EXC,Utilities,Energy
+Cummins,Cummins,CMI,Engines,Power Systems
+Crown Castle,Crown Castle,CCI,Telecom Infrastructure
+Verisk Analytics,Verisk, VRSK,Data Analytics,Risk Assessment
+Monster Beverage,Monster,MNST,Beverages,Energy Drinks
+L3Harris Technologies,L3Harris,LHX,Defense,Technology
+MSCI,MSCI,MSCI,Financial Services,Indices
+Target Corporation,Target,TGT,Retail,Superstore,Products
+Fidelity National Information Services,FIS,FIS,Financial Technology,Payments
+Fair Isaac,Fair Isaac,FICO,Credit Scoring,Analytics
+Ametek,Ametek,AME,Electronics,Instrumentation
+IDEXX Laboratories,IDEXX,IDXX,Veterinary,Diagnostics
